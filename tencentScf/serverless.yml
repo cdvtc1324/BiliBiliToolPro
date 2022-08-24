@@ -40,4 +40,4 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: buvid3=B08ED378-1920-9FEB-7F3F-757A9904D61729124infoc; i-wanna-go-back=-1; _uuid=FDB1A1BA-1B8A-B6110-FAFB-5D42838117C428086infoc; buvid4=24D97FF2-6DD8-6A9E-4594-89B06EDA443D30488-022082023-xREVEdt9gFwaqge6KTnv8A%3D%3D; buvid_fp_plain=undefined; DedeUserID=428198059; DedeUserID__ckMd5=4a4444e67663cfef; b_ut=5; buvid_fp=f6ba43ee7818b0b43bbfe9f75b81f698; rpdid=|(J~R~|~JYJ~0J'uYYu|mk|J); LIVE_BUVID=AUTO5116610944609103; nostalgia_conf=-1; fingerprint=f6ba43ee7818b0b43bbfe9f75b81f698; fingerprint3=1fe79badfcc6fcc6d23bf4524b1c2edd; PVID=1; SESSDATA=bad08b0c%2C1676823801%2C42790%2A81; bili_jct=19cd452e18b2f66202be93a8f60984c8; b_lsid=33E1910C5_182CDD15D48; sid=56e6asni; bp_video_offset_428198059=697810268685598800; b_timer=%7B%22ffp%22%3A%7B%22333.1007.fp.risk_B08ED378%22%3A%22182CDD162A9%22%2C%22333.337.fp.risk_B08ED378%22%3A%22182CDD184AC%22%2C%22333.788.fp.risk_B08ED378%22%3A%22182CDD1D151%22%2C%22333.400.fp.risk_B08ED378%22%3A%22182CDD81035%22%7D%7D; CURRENT_FNVAL=16; innersign=0 # cookie，必填
